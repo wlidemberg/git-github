@@ -18,7 +18,4 @@ Repositório para armazenar resumos sobre git e github do Curso de Versionamento
 git init
 ```
 
-<<<<<<< HEAD
-## trabalhando com branch
-=======
->>>>>>> feature-teste
+
